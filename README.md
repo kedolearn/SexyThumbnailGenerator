@@ -16,4 +16,4 @@ x.generateSelection()
 x.save("./image.png")  # Pass in a path + a file name
 ```
 
-__Note: The first time you run this package, it will need to download the models, and for this an internet connection is required. The models are downloaded from the first release in this repository named "Checkpoint", and can be manually downloaded and placed inside `/site-packages/SexyThumbnailGenerator/.models`__
+__Note: The first time you run this package, it will need to download the models, and for this an internet connection is required. The models are downloaded from the first release in this repository named "Checkpoint Files", and can be manually downloaded and placed inside `/site-packages/SexyThumbnailGenerator/.models`__
